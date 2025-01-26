@@ -1,6 +1,8 @@
 # Calculadora Simples em React
 
-Este é um projeto de uma calculadora simples desenvolvido durante o curso de React da DIO - Formação React Developer. O objetivo foi aplicar os conceitos fundamentais do React, como componentização, estado e eventos, criando uma aplicação funcional e interativa.
+Este é um projeto de uma calculadora simples desenvolvido durante o curso de React da DIO - Formação React Developer. O objetivo foi aplicar os conceitos fundamentais do React, como componentização, estado e eventos, criando uma aplicação funcional e interativa. 
+ 
+![interface calculadora](src/img/interface.png)
 
 ## 🛠️ Tecnologias utilizadas
 - React: Biblioteca JavaScript para construção de interfaces.  
