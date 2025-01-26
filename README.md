@@ -21,7 +21,7 @@ Durante o desenvolvimento deste projeto, foi possível reforçar conhecimentos s
 - Implementação de eventos e funções para interação com o usuário.
 - Prática de componentização e reaproveitamento de código.
 
-## 🚀 Como executar o projeto
+## 🚀 Executando o projeto
 
 ```
 npm install
